@@ -4,6 +4,8 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.28.8]",
+    "UiPath.IntelligentOCR.Activities": "[6.19.7]",
     "UiPath.System.Activities": "[25.12.2]"
   },
   "webServices": [],
